@@ -3,7 +3,7 @@
     "descricao":"Eliminatória Copa 2022",
     "local": {
       "nome":"Macaranã",
-      "imagem": "TODO"
+      "imagem": "https://vejario.abril.com.br/wp-content/uploads/2021/07/maracana.jpg"
     },
     "mandante": {
       "nome":"Brasil",
@@ -20,7 +20,7 @@
     "descricao":"Eliminatória Copa 2022",
     "local": {
       "nome":"Estádio Centenário",
-      "imagem": "TODO"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Estadio_Centenario_2021.jpg"
     },
     "mandante": {
       "nome":"Uruguai",
@@ -37,7 +37,7 @@
     "descricao":"Eliminatória Copa 2022",
     "local": {
       "nome":"Estádio Morumbi",
-      "imagem": "TODO"
+      "imagem": "https://www.arqtricolor.com/wp-content/uploads/2018/08/00-1280x720.jpg"
     },
     "mandante": {
       "nome":"Brasil",
